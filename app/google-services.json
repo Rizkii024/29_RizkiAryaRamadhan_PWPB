@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "827825864927",
+    "firebase_url": "https://rizkiaryaramadhanpwpb.firebaseio.com",
+    "project_id": "rizkiaryaramadhanpwpb",
+    "storage_bucket": "rizkiaryaramadhanpwpb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827825864927:android:bf07cb8ab97191c54ba96a",
+        "android_client_info": {
+          "package_name": "com.example.a29_rizkiaryaramadhan_pwpb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827825864927-86s8m8segr45iqa0u9s4nil4tesdrpgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a29_rizkiaryaramadhan_pwpb",
+            "certificate_hash": "bd08ff5ddb4444031a710952edbcf07bc2d28315"
+          }
+        },
+        {
+          "client_id": "827825864927-74j6si4suhr42e8pl8sr4rtllj1prqpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Iqp6BaFhWSxtHhKsJuvRtluo8j5VrIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827825864927-74j6si4suhr42e8pl8sr4rtllj1prqpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
